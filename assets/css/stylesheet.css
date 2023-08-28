@@ -1,0 +1,26 @@
+body {
+    background-color: pink;
+    
+}
+header {
+    width: 70%;
+    height: min-content;
+    border: black;
+    border-style: double;
+    text-align: center;
+    font-size: x-large;
+    font-display: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    padding: 10%;
+    background-image: linear-gradient(#421887, #FF80D5 );
+}
+
+img {
+width: 50%;
+height: 50%;
+}
+.Contact{
+    justify-content: center;
+}
+
